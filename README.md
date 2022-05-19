@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/v01diejesuzz" target="blank"><img src="https://img.shields.io/twitter/follow/v01diejesuzz?logo=twitter&style=for-the-badge" alt="v01diejesuzz" /></a> </p>
 
-- 🔭 I’m currently working on [VruhBoard](https://github.com/dsc-iem/VruhBoard)
+- 🔭 I’m currently working on [Dseized-Bot](https://github.com/jagreetdg/Dseized-Bot)
 
 - 👨‍💻 All of my projects are available at [jagreetdg.github.io](jagreetdg.github.io)
 
