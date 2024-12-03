@@ -19,8 +19,7 @@
 <p align="left">
 <a href="https://twitter.com/v01diejesuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v01diejesuzz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jagreetdg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagreetdg" height="30" width="40" /></a>
-<a href="https://fb.com/v01diejesuzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="v01diejesuzz" height="30" width="40" /></a>
-<a href="https://instagram.com/d_v01d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_v01d" height="30" width="40" /></a>
+<a href="https://instagram.com/rito.r.nello" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="d_v01d" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jagreetdg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jagreetdg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jagreet_dg20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jagreet_dg20" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/v01diejesuzz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="v01diejesuzz" height="30" width="40" /></a>
