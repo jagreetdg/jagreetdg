@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/v01diejesuzz" target="blank"><img src="https://img.shields.io/twitter/follow/v01diejesuzz?logo=twitter&style=for-the-badge" alt="v01diejesuzz" /></a> </p>
 
-- 🔭 I’m currently working on [Dseized-Bot](https://github.com/jagreetdg/Dseized-Bot)
+- 🔭 I’m currently working on [Ripply](https://ripplyapp.me)
 
-- 👨‍💻 All of my projects are available at [jagreetdg.github.io](jagreetdg.github.io)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/jagreetdg?tab=repositories)
 
 - 💬 Ask me about **CP, Gaming, Anime :)**
 
