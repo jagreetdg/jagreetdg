@@ -1,4 +1,4 @@
-<h1 align="center">Halo, I'm Jagreet</h1>
+<h1 align="center">Halo, I'm Rito</h1>
 <h3 align="center">Competitive Coder, Speed Cuber, CS:GO Player, Digi Artist, Music & Anime Head</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagreetdg&label=Profile%20views&color=0e75b6&style=flat" alt="jagreetdg" /> </p>
