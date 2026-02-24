@@ -53,36 +53,14 @@ Voice-first social platform focused on real expression.
 </p>
 
 <ul>
-  <li>1-minute voice posts</li>
-  <li>30-second voice stories</li>
-  <li>Voice-only DMs and comments</li>
-  <li>Live recording only</li>
+  <li>Connect through your voice</li>
+  <li>Discover new creators</li>
+  <li>Share your thoughts and creations</li>
+  <li>Get Discovered</li>
 </ul>
 
 <p align="center">
   <a href="https://ripplyapp.me">
     <img src="https://img.shields.io/badge/ENTER_RIPPLY-7f5af0?style=for-the-badge" />
   </a>
-</p>
-
-<!-- NEON DIVIDER -->
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line-neon.gif" />
-</p>
-
-<!-- STATS (AUTO THEME) -->
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=jagreetdg&show_icons=true&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=jagreetdg&show_icons=true&theme=default&hide_border=true" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=jagreetdg&layout=compact&theme=tokyonight&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jagreetdg&layout=compact&hide_border=true" />
-  </picture>
 </p>
